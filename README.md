@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 - 🎓 I’m a Software  Engineering student at ENIS
 - 💻 I love solving complex algorithmic problems and developing full-stack applications
@@ -72,6 +72,3 @@
 
 <div align="center">
 
-<a href="https://github.com/youssefjarray-enis">
-  <img src="https://github-readme-stats.vercel.app/api?username=arouaraed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=cyan&icon_color=cyan&text_color=white&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefjarray-enis&show_icons=true&locale=en&layout=compact&line_height=20&title_color=cyan&icon_col
