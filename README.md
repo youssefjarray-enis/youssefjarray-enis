@@ -1,60 +1,77 @@
-# 👋 Hi, I'm Youssef
+<h1 align="center"><b>Hi , I'm Youssef Jarray </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Competitive+Programmer;ICPC+Candidate;C%2B%2B+Lover;Never+Stop+Learning&center=true&width=500&height=50">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Competitive+Programmer;Full-Stack+Developer;Tech+Enthusiast;Always+Learning..."></a>
 </p>
 
----
+<br>
 
-## 🧠 About Me
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About Me**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-* 🎯 Focused on ICPC & Codeforces
-* 💻 I solve problems daily
-* ⚡ Fast learner & competitive mindset
-* 🚀 Goal: Become ICPC finalist
+- 🎓 I’m a Software  Engineering student at ENIS
+- 💻 I love solving complex algorithmic problems and developing full-stack applications
+- 🌱 Practicing daily on Codeforces and deepening my understanding of oriented object programming in Java and Python.
+- 🚀 I’ve participated in national programming contests (TCPC)
+- 📫 Contact me at: [youssef.jarray@enis.tn](mailto:youssef.jarray@enis.tn.tn)
 
----
+<br><br>
 
-## ⚡ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux" />
+
+- **Languages**:
+
+    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+<br>
+
+- **Frameworks & Tools**:
+  
+    ![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=for-the-badge&logo=java&logoColor=white)
+    ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+- **Database**:
+
+    ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<br>
+
+- **Extras**:
+
+    ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </p>
 
----
+<br>
+<br>
 
-## 📊 Stats (Live 🔥)
+-----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
-</p>
+<br>
 
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+<br>
 
-## 🏆 Activity Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-  <a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-orange"></a>
-</p>
-
----
-
-## 🐍 Contribution Snake (animation 🔥🔥)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-</p>
-
----
+<a href="https://github.com/youssefjarray-enis">
+  <img src="https://github-readme-stats.vercel.app/api?username=arouaraed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=cyan&icon_color=cyan&text_color=white&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefjarray-enis&show_icons=true&locale=en&layout=compact&line_height=20&title_color=cyan&icon_col
