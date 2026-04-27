@@ -11,7 +11,7 @@
 - 🎓 Software Engineering student at ENIS  
 - 💡 Passionate about algorithms & problem solving  
 - 🏆 Participant in TCPC contests  
-- 📈 Practicing daily on Codeforces  
+- 📈 Practicing daily on Codeforces && leetcode
 - 📬 Reach me: **youssef.jarray@enis.tn**
 
 ---
