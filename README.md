@@ -1,64 +1,61 @@
-<h1 align="center"><b>Hi , I'm Youssef Jarray </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm Youssef Jarray</h1>
+<h3 align="center">💻 Competitive Programmer | 🚀 Software Engineering Student</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Competitive+Programmer;Full-Stack+Developer;Tech+Enthusiast;Always+Learning..."></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Competitive+Programmer;Problem+Solver;Java+%7C+C%2B%2B+Developer;Always+Learning+New+Things" />
 </p>
 
-<br>
+---
 
-##  **About Me**
+### 🧠 About Me
+- 🎓 Software Engineering student at ENIS  
+- 💡 Passionate about algorithms & problem solving  
+- 🏆 Participant in TCPC contests  
+- 📈 Practicing daily on Codeforces  
+- 📬 Reach me: **youssef.jarray@enis.tn**
 
+---
 
+### 🌐 Connect with me
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME" target="blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINK" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
-- 🎓 I’m a Software  Engineering student at ENIS
-- 💻 I love solving complex algorithmic problems 
-- 🌱 Practicing daily on Codeforces and deepening my understanding of oriented object programming in Java.
-- 🚀 I’ve participated in national programming contests (TCPC)
-- 📫 Contact me at: [youssef.jarray@enis.tn](mailto:youssef.jarray@enis.tn.tn)
+---
 
-<br><br>
+### ⚒️ Languages and Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,vscode" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
-<br>
-
+### 📊 GitHub Stats
 <p align="center">
-
-- **Languages**:
-
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   
-
-<br>
-
-- **Tools**:
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-- **Database**:
-
-    ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-   
-
-<br>
-
-- **Extras**:
-
-    ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-<br>
-<br>
+---
 
------
+### 🧩 Most Used Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
+### 🏆 Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I solve problems for fun… and sometimes they solve me 😄
