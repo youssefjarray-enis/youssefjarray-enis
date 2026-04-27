@@ -18,10 +18,10 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/youssefjarray-enis" target="blank">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINK" target="blank">
+<a href="https://www.linkedin.com/in/youssef-jarray-1213ba3bb/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
@@ -34,28 +34,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### 🧩 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" />
-</p>
-
----
-
-### ⚡ Fun Fact
-> I solve problems for fun… and sometimes they solve me 😄
