@@ -18,14 +18,13 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://github.com/youssefjarray-enis" target="blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</a>
 <a href="https://www.linkedin.com/in/youssef-jarray-1213ba3bb/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
+<a href="https://wa.me/+21654874225" target="blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 </p>
-
 ---
 
 ### ⚒️ Languages and Tools
