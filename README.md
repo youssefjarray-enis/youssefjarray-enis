@@ -11,8 +11,8 @@
 
 
 - 🎓 I’m a Software  Engineering student at ENIS
-- 💻 I love solving complex algorithmic problems and developing full-stack applications
-- 🌱 Practicing daily on Codeforces and deepening my understanding of oriented object programming in Java and Python.
+- 💻 I love solving complex algorithmic problems 
+- 🌱 Practicing daily on Codeforces and deepening my understanding of oriented object programming in Java.
 - 🚀 I’ve participated in national programming contests (TCPC)
 - 📫 Contact me at: [youssef.jarray@enis.tn](mailto:youssef.jarray@enis.tn.tn)
 
@@ -32,15 +32,11 @@
     ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+   
 
 <br>
 
-- **Frameworks & Tools**:
-  
-    ![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=for-the-badge&logo=java&logoColor=white)
-    ![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- **Tools**:
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -49,7 +45,7 @@
 - **Database**:
 
     ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+   
 
 <br>
 
